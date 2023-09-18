@@ -1,0 +1,14 @@
+.vscode
+
+# Microchip Studio build files
+firmware/.vs
+firmware/Debug
+firmware/Release
+
+# PCB 
+pcb/AVR-Spotter-backups
+pcb/plot
+pcb/plot.*
+pcb/fp-info-cache
+pcb/~*.*
+pcb/AVR-Spotter_AR-Check.txt
