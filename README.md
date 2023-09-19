@@ -1,3 +1,3 @@
 # AVR Spotter
-![](https://github.com/gty77663/AVR-Spotter/blob/dev/media/logo.svg)
-[Image source](https://commons.m.wikimedia.org/wiki/File:Spark_By_Alexander_Skowalsky_756341.svg)
+![](media/logo.svg?raw=true)
+[Credit for logo inspiration](https://commons.m.wikimedia.org/wiki/File:Spark_By_Alexander_Skowalsky_756341.svg)
